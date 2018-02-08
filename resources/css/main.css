@@ -1,0 +1,10 @@
+h1 {
+    font-size: 32px;
+    margin-top: 0;
+}
+#file-input {
+    display: none;
+}
+#browse-button i {
+    margin-right: 5px;
+}
