@@ -6,7 +6,8 @@
 * run in console: 
 ```
 composer install
-sudo chmod 777 -R resources/tmp
+sudo mkdir resources/tmp
+sudo chmod 777 resources/tmp
 sudo npm i
 sudo gulp
 ```
