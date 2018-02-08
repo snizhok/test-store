@@ -6,7 +6,6 @@
     "type": "project",
     "require": {
         "php": ">=7.0.0",
-        "box/spout": "^2.7",
         "usmanhalalit/pixie": "2.*@dev"
     },
     "autoload": {
