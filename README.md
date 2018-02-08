@@ -11,3 +11,4 @@ sudo npm i
 sudo gulp
 ```
 * restore database from dump `resources/db/dump.sql`
+* app entry point `public/index.php`
